@@ -100,7 +100,7 @@ describe('NotionsService', () => {
         name: 'TypeScript',
       });
 
-      expect(result.name).toBe('Hello');
+      expect(result.name).toBe('TypeScript');
     });
 
     it('should throw NotFoundException if notion not found', async () => {
