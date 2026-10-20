@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/emeric-web/LDJS-back/compare/v1.1.0...v1.1.1) (2026-10-20)
+
+
+### Bug Fixes
+
+* verify patch release ([7ad739f](https://github.com/emeric-web/LDJS-back/commit/7ad739f5d8f837814c6b76c5af69b0e6b8072434))
+
 # [1.1.0](https://github.com/emeric-web/LDJS-back/compare/v1.0.0...v1.1.0) (2026-10-20)
 
 
