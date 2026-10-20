@@ -1,3 +1,17 @@
+## [2.0.0](https://github.com/emeric-web/LDJS-back/compare/v1.1.2...v2.0.0) (2026-10-20)
+
+### ⚠ BREAKING CHANGES
+
+* verify major release
+
+### Features
+
+* verify major release ([831d1f2](https://github.com/emeric-web/LDJS-back/commit/831d1f25981b200c5f99f133435a4b9075c0cc73))
+
+### Bug Fixes
+
+* **release:** pin conventionalcommits preset to v8 ([66cd106](https://github.com/emeric-web/LDJS-back/commit/66cd106044b7d5310d3de2f939e0ec59df366202))
+
 ## [1.1.2](https://github.com/emeric-web/LDJS-back/compare/v1.1.1...v1.1.2) (2026-10-20)
 
 
